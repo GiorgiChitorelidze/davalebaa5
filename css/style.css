@@ -1,0 +1,41 @@
+body{
+	background-color:#22B573
+}
+.ul{
+	display: inline-block;
+}
+.li{
+	display: inline-block;
+	margin-right: 48px;
+	font-size: 48pt;
+	vertical-align: bottom;
+}
+.image{
+	width:201.0717px;
+	height:151.5023px;
+	float:right;
+	vertical-align:top;
+}
+.container{
+	margin-bottom:20px;
+}
+.inline-b{
+	display: inline-block;
+}
+.box{
+	background-color: #FCEE21;
+	padding: 20px 20px 40px 40px;
+	margin-right: 150px;
+	margin-bottom:20px;
+}
+.img{
+	float:right;
+	clear: both;
+}
+.img1{
+	float; right:;
+	clear: both;
+}
+.text{
+	padding-top:10px;
+}
